@@ -1,6 +1,8 @@
 # shader_study
 
 以下是我從各處收集整理來的 shader sample code ，裡面加入我個人的理解做重點解釋
+陸續增加中。
+
 ### [SurfaceShader](Categories/SurfaceShader.md)
 ### [FX](Categories/FX.md)
 ### [PostProcess](Categories/PostProcess.md)
