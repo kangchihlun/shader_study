@@ -1,10 +1,17 @@
 # shader_study
 
-¥H¤U¬O§Ú±q¦U³B¦¬¶°¾ã²z¨Óªº shader sample code ¡A¸Ì­±¥[¤J§Ú­Ó¤Hªº²z¸Ñ°µ­«ÂI¸ÑÄÀ
-³°Äò¼W¥[¤¤¡C
+ä»¥ä¸‹æ˜¯æˆ‘å¾å„è™•æ”¶é›†æ•´ç†ä¾†çš„ shader sample code ï¼Œè£¡é¢åŠ å…¥æˆ‘å€‹äººçš„ç†è§£åšé‡é»è§£é‡‹
+é™¸çºŒå¢åŠ ä¸­ã€‚
 
-### 2018/6/3 §ó·s¡G
-### ¤w¸g§â¤º®eÂà²¾¨ì gitbook ¤W
+### 2018/6/3 æ›´æ–°ï¼š
+### å·²ç¶“æŠŠå…§å®¹è½‰ç§»åˆ° gitbook ä¸Š
 ### https://algo-tech-art.gitbook.io/shaderstudy/ 
-#### 2018/06/13 §¹¦¨ HeightFog ½g
+
+#### 2018/06/07 å®Œæˆ Lut ç¯‡
+#### https://algo-tech-art.gitbook.io/shaderstudy/screen-space/color-adjustment/tone-mapping-org-lut
+
+#### 2018/06/12 å®Œæˆ Skin ç¯‡
+#### https://algo-tech-art.gitbook.io/shaderstudy/surface-shader-1/skin
+
+#### 2018/06/13 å®Œæˆ HeightFog ç¯‡
 #### https://algo-tech-art.gitbook.io/shaderstudy/screen-space/height-fog
